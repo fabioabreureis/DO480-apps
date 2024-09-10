@@ -1,5 +1,5 @@
 kind: Kustomization 
-base: 
+bases: 
   - ../../base
 
 resources: 
